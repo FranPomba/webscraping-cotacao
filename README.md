@@ -14,10 +14,10 @@ Os FIIs que atendem aos critérios são listados em formato tabular.
 
 ## Tecnologias Utilizadas
 
-- [Python]: Linguagem de programação principal.
-- [Requests]: Para fazer requisições HTTP e obter os dados do site.
-- [BeautifulSoup]: Para fazer o parsing do HTML e extrair informações.
-- [Tabulate]: Para exibir os resultados em formato de tabela.
+- Python: Linguagem de programação principal.
+- Requests: Para fazer requisições HTTP e obter os dados do site.
+- BeautifulSoup: Para fazer o parsing do HTML e extrair informações.
+- Tabulate: Para exibir os resultados em formato de tabela.
 
 ## Autor
-  - Francisco Pomba
+Francisco Pomba
